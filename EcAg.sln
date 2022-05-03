@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EcAg", "EcAg\EcAg.vcxproj", "{FED394A6-30DB-4ADA-9831-A1D60C4756AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FED394A6-30DB-4ADA-9831-A1D60C4756AD}.Debug|x64.ActiveCfg = Debug|x64
+		{FED394A6-30DB-4ADA-9831-A1D60C4756AD}.Debug|x64.Build.0 = Debug|x64
+		{FED394A6-30DB-4ADA-9831-A1D60C4756AD}.Debug|x86.ActiveCfg = Debug|Win32
+		{FED394A6-30DB-4ADA-9831-A1D60C4756AD}.Debug|x86.Build.0 = Debug|Win32
+		{FED394A6-30DB-4ADA-9831-A1D60C4756AD}.Release|x64.ActiveCfg = Release|x64
+		{FED394A6-30DB-4ADA-9831-A1D60C4756AD}.Release|x64.Build.0 = Release|x64
+		{FED394A6-30DB-4ADA-9831-A1D60C4756AD}.Release|x86.ActiveCfg = Release|Win32
+		{FED394A6-30DB-4ADA-9831-A1D60C4756AD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {536287CF-6361-4788-94E9-6B9F4D172E9F}
+	EndGlobalSection
+EndGlobal
